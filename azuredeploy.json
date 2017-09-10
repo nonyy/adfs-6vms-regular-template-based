@@ -498,7 +498,7 @@
             "value": "[variables('availabilitySetNames')[0]]"
           },
           "vmCount": {
-            "value": 2
+            "value": 1
           },
           "storageAccountNamePrefix": {
             "value": "[variables('storageAccountNamePrefix')]"
@@ -539,7 +539,7 @@
             "value": "[variables('availabilitySetNames')[1]]"
           },
           "vmCount": {
-            "value": 2
+            "value": 1
           },
           "storageAccountNamePrefix": {
             "value": "[variables('storageAccountNamePrefix')]"
@@ -580,7 +580,7 @@
             "value": "[variables('availabilitySetNames')[2]]"
           },
           "vmCount": {
-            "value": 2
+            "value": 1
           },
           "storageAccountNamePrefix": {
             "value": "[variables('storageAccountNamePrefix')]"
